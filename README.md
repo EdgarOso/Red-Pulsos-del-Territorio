@@ -1,4 +1,4 @@
-#⚡ Red Pulsos del Territorio
+# ⚡ Red Pulsos del Territorio
 
 Este repositorio contiene el proyecto de base de datos para modelar y analizar el mercado eléctrico colombiano. Bajo el nombre “Red Pulsos del Territorio” capturamos la idea de una red energética viva, dinámica y conectada a su región.
 
