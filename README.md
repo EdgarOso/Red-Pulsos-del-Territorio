@@ -33,7 +33,7 @@ La empresa ficticia Red Pulsos del Territorio gestiona varias plantas de generac
 
 ## 🛠 Tecnología y Fuentes
 
-- Base de datos en PostgreSQL / SQL Server  
+- Base de datos en mySQL / SQL Server  
 - Power BI para visualización  
 - Python + Pandas para exploración en notebooks  
 - Datos de SIMEM, datos.gov.co y repositorios públicos de GitHub  
@@ -48,7 +48,10 @@ La empresa ficticia Red Pulsos del Territorio gestiona varias plantas de generac
 ## 🤝 Créditos
 
 Proyecto desarrollado por el equipo Red Pulsos del Territorio  
-Mentoría y revisión: [Nombre de la mentora]  
+Mentoría y revisión: [
+Edgar Renteria
+Moguel Ramirez
+Valentina ]  
 
 ---
 
