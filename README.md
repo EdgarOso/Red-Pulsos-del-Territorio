@@ -51,7 +51,7 @@ Proyecto desarrollado por el equipo Red Pulsos del Territorio
 Mentoría y revisión: [
 Edgar Renteria
 Moguel Ramirez
-Valentina ]  
+Valentina Alzate ]  
 
 ---
 
